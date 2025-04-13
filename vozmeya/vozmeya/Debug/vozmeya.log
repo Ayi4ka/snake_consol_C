@@ -1,1 +1,11 @@
-﻿  vozmeya.vcxproj -> C:\Users\Seriously\Desktop\projects\yapeveu\2 семестр\Программирование\vozmeya\Debug\vozmeya.exe
+﻿  main.c
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(543,9): warning C4013: main: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(551,11): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(130,1): warning C4716: move: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(89,1): warning C4716: start: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(101,1): warning C4716: apple: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(61,1): warning C4716: game: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(95,1): warning C4716: head: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(164,1): warning C4716: moving: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(546,1): warning C4715: losing: значение возвращается не при всех путях выполнения
+  vozmeya.vcxproj -> C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\Debug\vozmeya.exe

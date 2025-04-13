@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(543,9): warning C4013: main: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(551,11): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(95): warning C4716: head: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(101): warning C4716: apple: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(164): warning C4716: moving: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(130): warning C4716: move: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(61): warning C4716: game: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(89): warning C4716: start: должна возвращать значение
+C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\vozmeya\main.c(546): warning C4715: losing: значение возвращается не при всех путях выполнения
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  vozmeya.vcxproj -> C:\Users\Seriously\Desktop\projects\snake_consol_C\snake_consol_C\vozmeya\Release\vozmeya.exe

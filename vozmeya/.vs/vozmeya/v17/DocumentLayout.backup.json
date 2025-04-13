@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Seriously\\Desktop\\projects\\yapeveu\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\vozmeya\\",
+  "WorkspaceRootPath": "C:\\Users\\Seriously\\Desktop\\projects\\snake_consol_C\\snake_consol_C\\vozmeya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{023FBE51-991E-4B78-9963-785EDCB44CB4}|vozmeya\\vozmeya.vcxproj|C:\\Users\\Seriously\\Desktop\\projects\\yapeveu\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\vozmeya\\vozmeya\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{023FBE51-991E-4B78-9963-785EDCB44CB4}|vozmeya\\vozmeya.vcxproj|C:\\Users\\Seriously\\Desktop\\projects\\snake_consol_C\\snake_consol_C\\vozmeya\\vozmeya\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{023FBE51-991E-4B78-9963-785EDCB44CB4}|vozmeya\\vozmeya.vcxproj|solutionrelative:vozmeya\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Seriously\\Desktop\\projects\\yapeveu\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\vozmeya\\vozmeya\\main.c",
+              "DocumentMoniker": "C:\\Users\\Seriously\\Desktop\\projects\\snake_consol_C\\snake_consol_C\\vozmeya\\vozmeya\\main.c",
               "RelativeDocumentMoniker": "vozmeya\\main.c",
-              "ToolTip": "C:\\Users\\Seriously\\Desktop\\projects\\yapeveu\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\vozmeya\\vozmeya\\main.c",
+              "ToolTip": "C:\\Users\\Seriously\\Desktop\\projects\\snake_consol_C\\snake_consol_C\\vozmeya\\vozmeya\\main.c",
               "RelativeToolTip": "vozmeya\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEICAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-13T14:42:04.195Z",
               "EditorCaption": ""
