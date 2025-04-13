@@ -33,3 +33,6 @@ Made with ❤️ by Ayi4ka
 
 🐍 May your snake grow long and your code stay bug-free!
 🐍 Пусть змейка растёт, а баги исчезают!
+
+
+![Timeline 1](https://github.com/user-attachments/assets/b843a25f-f9cf-467d-b76d-e35f08c658ec)
