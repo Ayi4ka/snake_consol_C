@@ -28,8 +28,8 @@
 - Избегай столкновений со стенами и своим хвостом — это завершит игру.
 
 🤝 Author | Автор
-Made with ❤️ by Ayi4ka
-Сделано с любовью — Айка
+Made with ❤️ by Ayi4ka in 2021
+Сделано с любовью — Айка в 2021
 
 🐍 May your snake grow long and your code stay bug-free!
 🐍 Пусть змейка растёт, а баги исчезают!
